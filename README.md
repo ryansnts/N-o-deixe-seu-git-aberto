@@ -1,1 +1,1 @@
-# N-o-deixe-seu-git-aberto
+Não deixa o seu github aberto.
